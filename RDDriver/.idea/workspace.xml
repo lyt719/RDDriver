@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4da55abd-57f7-4e8c-9fd3-1b65a6a4d061" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="4eda6794-6e06-4700-844e-2ed135edd0e1" />
+  <component name="ProjectId" id="20DunEE9pd68ey3oCcCnr4Tv6V1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TCGA_biomarker" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="TCGA_biomarker" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="TCGA_biomarker" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.ttt">
+    <configuration name="huatu1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCGA_biomarker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/find_marker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_marker/huatu1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="huatu2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCGA_biomarker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/find_marker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_marker/huatu2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="huatu3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCGA_biomarker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/find_marker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_marker/huatu3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ttt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCGA_biomarker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/find_marker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_marker/ttt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="venn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCGA_biomarker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/find_marker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_marker/venn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.huatu3" />
+      <item itemvalue="Python.huatu2" />
+      <item itemvalue="Python.huatu1" />
+      <item itemvalue="Python.venn" />
+      <item itemvalue="Python.ttt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ttt" />
+        <item itemvalue="Python.venn" />
+        <item itemvalue="Python.huatu3" />
+        <item itemvalue="Python.huatu2" />
+        <item itemvalue="Python.huatu1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4da55abd-57f7-4e8c-9fd3-1b65a6a4d061" name="默认更改列表" comment="" />
+      <created>1635591643463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635591643463</updated>
+      <workItem from="1635591660858" duration="73797000" />
+      <workItem from="1636373590668" duration="4769000" />
+      <workItem from="1636426154296" duration="5579000" />
+      <workItem from="1636553835823" duration="3649000" />
+      <workItem from="1636952568731" duration="79067000" />
+      <workItem from="1637320675133" duration="56195000" />
+      <workItem from="1637562828664" duration="66170000" />
+      <workItem from="1637752001005" duration="7472000" />
+      <workItem from="1637828166347" duration="22857000" />
+      <workItem from="1637996870816" duration="17327000" />
+      <workItem from="1638073112361" duration="110305000" />
+      <workItem from="1638795000934" duration="79461000" />
+      <workItem from="1639306102728" duration="54255000" />
+      <workItem from="1640055681016" duration="43134000" />
+      <workItem from="1640246309491" duration="183841000" />
+      <workItem from="1641367610151" duration="7507000" />
+      <workItem from="1641527301532" duration="37883000" />
+      <workItem from="1641874320361" duration="22070000" />
+      <workItem from="1642042658702" duration="28400000" />
+      <workItem from="1642231826971" duration="169000" />
+      <workItem from="1642232998090" duration="57693000" />
+      <workItem from="1643188108180" duration="16842000" />
+      <workItem from="1644156210865" duration="16747000" />
+      <workItem from="1644990735271" duration="81763000" />
+      <workItem from="1646277475162" duration="20526000" />
+      <workItem from="1646474559174" duration="905000" />
+      <workItem from="1646597055081" duration="41027000" />
+      <workItem from="1646806612171" duration="17960000" />
+      <workItem from="1646988506178" duration="11478000" />
+      <workItem from="1647162260468" duration="22039000" />
+      <workItem from="1647432031599" duration="28174000" />
+      <workItem from="1648127380589" duration="195000" />
+      <workItem from="1648132934714" duration="10530000" />
+      <workItem from="1651212160090" duration="73156000" />
+      <workItem from="1652104223708" duration="3689000" />
+      <workItem from="1652245766048" duration="13609000" />
+      <workItem from="1652330382895" duration="10278000" />
+      <workItem from="1652424077964" duration="27061000" />
+      <workItem from="1653375685251" duration="14201000" />
+      <workItem from="1653398195921" duration="459000" />
+      <workItem from="1653398670326" duration="870000" />
+      <workItem from="1654003524441" duration="479000" />
+      <workItem from="1654395799846" duration="2634000" />
+      <workItem from="1654589787531" duration="4721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="128" key="#Deployment" timestamp="1651214504934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="318" y="128" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1651214504934" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651295696693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1651295696693" />
+    <state x="463" y="546" key="#xdebugger.XInspectDialog" timestamp="1652618897514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="546" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1652618897514" />
+    <state x="455" y="219" width="868" height="821" key="#xdebugger.evaluate" timestamp="1652628165039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="385" y="137" width="490" height="591" key="#xdebugger.evaluate/0.0.1360.728@0.0.1360.728" timestamp="1646740046618" />
+    <state x="466" y="235" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1651310017137" />
+    <state x="455" y="219" width="868" height="821" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1652628165039" />
+    <state x="592" y="220" key="FileChooserDialogImpl" timestamp="1654593058593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="220" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1654593058593" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653381607064" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1654398465091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="238" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1646832874778" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654398465091" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653394936901" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1654398465091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="238" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1646832874778" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1654398465091" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653394936901" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1654398465091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="238" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1646832874778" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1654398465091" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653394936901" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1654398465091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="238" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1646832874778" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1654398465091" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653394936901" />
+    <state width="1493" height="249" key="GridCell.Tab.1.bottom" timestamp="1654398465085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="263" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1646740439648" />
+    <state width="1493" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654398465085" />
+    <state width="1877" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653387560762" />
+    <state width="1493" height="249" key="GridCell.Tab.1.center" timestamp="1654398465085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="263" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1646740439647" />
+    <state width="1493" height="249" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1654398465085" />
+    <state width="1877" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653387560761" />
+    <state width="1493" height="249" key="GridCell.Tab.1.left" timestamp="1654398465085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="263" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1646740439647" />
+    <state width="1493" height="249" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1654398465085" />
+    <state width="1877" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653387560761" />
+    <state width="1493" height="249" key="GridCell.Tab.1.right" timestamp="1654398465085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1317" height="263" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1646740439647" />
+    <state width="1493" height="249" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1654398465085" />
+    <state width="1877" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653387560762" />
+    <state x="271" y="330" key="SettingsEditor" timestamp="1653392952647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651306985360" />
+    <state x="271" y="330" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653392952647" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1652620481007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="686" height="370" key="XDebugger.FullValuePopup/0.0.1360.728@0.0.1360.728" timestamp="1646739753103" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1651309320277" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1652620481007" />
+    <state x="536" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1654003524024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="243" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1646597054786" />
+    <state x="536" y="275" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1654003524024" />
+    <state x="670" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653375684413" />
+    <state x="510" y="145" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1651212813048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="145" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1536.824@0.0.1536.824" timestamp="1651212813048" />
+    <state x="380" y="52" width="691" height="555" key="find.popup" timestamp="1654596106575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="193" width="611" height="490" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1646655385783" />
+    <state x="380" y="52" width="691" height="555" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1654596106575" />
+    <state x="654" y="275" width="751" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1652613889271" />
+    <state x="659" y="148" key="ftp.server.browser" timestamp="1651214496360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="659" y="148" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1651214496360" />
+    <state x="623" y="226" width="949" height="679" key="search.everywhere.popup" timestamp="1652462181391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="226" width="949" height="679" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1652462181391" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/find_marker/tmp.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="eval[0].grad" />
+        <watch expression="eval" />
+        <watch expression="eval" />
+        <watch expression="loss" />
+        <watch expression="loss" />
+        <watch expression="w" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$generate_random_network.coverage" NAME="generate_random_network Coverage Results" MODIFIED="1651755813679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1652612246264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$mircode.coverage" NAME="mircode Coverage Results" MODIFIED="1635852568396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$RWO.coverage" NAME="RWO Coverage Results" MODIFIED="1646819042192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$huatu2.coverage" NAME="huatu2 Coverage Results" MODIFIED="1653388102138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$mirdb.coverage" NAME="mirdb Coverage Results" MODIFIED="1635669350731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$huatu1.coverage" NAME="huatu1 Coverage Results" MODIFIED="1653387560741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$network_mi_with_lnc_mrna.coverage" NAME="network_mi_with_lnc_mrna Coverage Results" MODIFIED="1636019539392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$targerscan.coverage" NAME="targerscan Coverage Results" MODIFIED="1635819508668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$show_result.coverage" NAME="show_result Coverage Results" MODIFIED="1653381511883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$mirtarbase.coverage" NAME="mirtarbase Coverage Results" MODIFIED="1635829626998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$venn.coverage" NAME="venn Coverage Results" MODIFIED="1653394936891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/github$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1654397983204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$NIBNA__1_.coverage" NAME="NIBNA (1) Coverage Results" MODIFIED="1642689591415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$main.coverage" NAME="main Coverage Results" MODIFIED="1652351083771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$network_pcc.coverage" NAME="network_pcc Coverage Results" MODIFIED="1636347406400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$run.coverage" NAME="run Coverage Results" MODIFIED="1651758116801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$utils.coverage" NAME="load Coverage Results" MODIFIED="1637143825050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$model.coverage" NAME="model Coverage Results" MODIFIED="1638949026150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$test.coverage" NAME="test Coverage Results" MODIFIED="1637393481921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$t.coverage" NAME="t Coverage Results" MODIFIED="1638247514602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$robust.coverage" NAME="robust Coverage Results" MODIFIED="1645795355691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$evalRNA.coverage" NAME="evalRNA Coverage Results" MODIFIED="1639569657374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eval" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$HWVoteRank.coverage" NAME="HWVoteRank Coverage Results" MODIFIED="1646818764130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$huatu3.coverage" NAME="huatu3 Coverage Results" MODIFIED="1653388322115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$divid_lnc_mrna.coverage" NAME="divid_lnc_mrna Coverage Results" MODIFIED="1635598234660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$miRNA_id_change.coverage" NAME="miRNA_id_change Coverage Results" MODIFIED="1635652246661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$eval.coverage" NAME="eval Coverage Results" MODIFIED="1652458976827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$starbase.coverage" NAME="starbase Coverage Results" MODIFIED="1636006256390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$lpsolve.coverage" NAME="lpsolve Coverage Results" MODIFIED="1642597382420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_marker" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$construct.coverage" NAME="construct Coverage Results" MODIFIED="1640071838046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/construct_network" />
+    <SUITE FILE_PATH="coverage/TCGA_biomarker$NIBNA.coverage" NAME="NIBNA Coverage Results" MODIFIED="1642513876852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

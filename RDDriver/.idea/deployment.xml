@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="luyt@region-4.autodl.com:47261">
+    <serverData>
+      <paths name="luyt@region-4.autodl.com:47261">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/lyt/TCGA_biomarker" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="luyuting@222.27.87.87:12000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/luyuting/python_code/TCGA_biomarker" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
